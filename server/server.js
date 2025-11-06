@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 // backend/server.js
 import express from "express";
 import http from "http";
@@ -71,5 +68,4 @@ server.listen(PORT, () =>
   console.log(`⚡ Server running on http://localhost:${PORT}`)
 );
 
-module.exports = { app, server, io }; 
->>>>>>> 9bb103f (update)
+export { app, server, io };
