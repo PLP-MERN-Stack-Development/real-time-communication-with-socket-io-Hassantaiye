@@ -156,6 +156,9 @@ chat-app/
    Navigate to `http://localhost:5173`
 
 ---
+## 🖼️ App Preview
+
+![Chat App Screenshot](chat 1.png)
 
 ## 📡 API Endpoints
 
