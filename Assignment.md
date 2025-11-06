@@ -159,13 +159,13 @@ chat-app/
 ## 🖼️ Screenshots
 
 ### 💬 Chat Interface
-![Chat Interface](chat 3.png)
+![Chat Interface](chat3.png)
 
 ### 🔐 Login Page
 ![Login Page](chat1.png)
 
 ### 📝 Register Page
-![Register Page](chat 2.png)
+![Register Page](chat2.png)
 
 ## 📡 API Endpoints
 
