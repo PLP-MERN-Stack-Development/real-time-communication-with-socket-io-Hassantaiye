@@ -158,8 +158,7 @@ chat-app/
 ---
 ## 🖼️ App Preview
 
-![Chat App Screenshot](<img width="1362" height="680" alt="chat1" src="https://github.com/user-attachments/assets/c1e61cb0-8d1b-4ec5-8e6a-4c12203c4bd3" />
-)
+![Chat App Screenshot](chat1.png)
 
 ## 📡 API Endpoints
 
