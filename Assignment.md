@@ -159,6 +159,8 @@ chat-app/
 ## 🖼️ App Preview
 
 ![Chat App Screenshot](chat1.png)
+![Chat App Screenshot](chat 2.png)
+![Chat App Screenshot](chat 3.png)
 
 ## 📡 API Endpoints
 
